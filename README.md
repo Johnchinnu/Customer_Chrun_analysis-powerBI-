@@ -28,9 +28,9 @@ Customer churn is a critical metric for any business. This project leverages Pow
 
 Features
 
-  Interactive Churn Dashboard: Visualize key churn metrics, trends, and customer segments.
+  Interactive Churn Dashboard: Visualize key churn metrics, trends, and customer segments.(https://github.com/Johnchinnu/Customer_Chrun_analysis-powerBI-/blob/main/Customer%20Churn%20Dashboard.png)
 
-   Customer Risk Analysis: Identify customers at high risk of churning based on various attributes.
+   Customer Risk Analysis: Identify customers at high risk of churning based on various attributes.(https://github.com/Johnchinnu/Customer_Chrun_analysis-powerBI-/blob/main/Customer%20Risk%20Analysis.png)
 
    Data-driven Insights: Uncover root causes of churn through detailed analysis.
 
